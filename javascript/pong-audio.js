@@ -65,4 +65,4 @@ adventureMusic.player.volume.value = -16;
 export var villageMusic = new soundFile("Skophotch.mp3");
 soundArray.push(villageMusic);
 villageMusic.player.loop = true;
-villageMusic.player.volume.value = -16;
+villageMusic.player.volume.value = -12;
